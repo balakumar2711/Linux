@@ -1,0 +1,3 @@
+echo -n ------ Will not echo in new line even if given in new line
+
+\ ----- string continuation(to break large lines into multiple lines:
